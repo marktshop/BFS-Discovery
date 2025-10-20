@@ -12,14 +12,14 @@ Sample analysis of partner infraction cases reveals systemic issues in enforceme
 
 | Ticket | Partner | Violation Type | BFS Impact | Reset/Suspension Date |
 |--------|---------|---------------|------------|----------------------|
-| 1 | Cirkle Studio LLC | Shopify trademark bidding (Google Ads) | 10-day app demotion | Resolved Sep 10, 2025 |
-| 2 | Madgic | App bypassing Shopify Checkout | BFS eligibility reset | Feb 14, 2026 |
-| 3 | Upsell.com (ReConvert) | Falsification of information| BFS suspended | Dec 23, 2025 |
-| 4 | Pareto Team (Omega Theme) | Falsification of information | BFS eligibility reset | Nov 15, 2025 |
-| 5 | Foxecom Team | Falsification of information + Fake reviews | BFS eligibility reset | Feb 4, 2026 |
-| 6 | Final Apps | Shopify trademark infringement | BFS suspended | Nov 24, 2025 |
-| 7 | AppStack (PricePanda) | Shopify trademark infringement  | Resolved | Oct 1, 2025 |
-| 8 | Skai Lama | Shopify trademark infringement  | BFS suspended | Jan 5, 2026 |
+| 1 | Cirkle Studio LLC | Ad keyword bidding (minor) | 10-day app demotion | Resolved Sep 10, 2025 |
+| 2 | Madgic | Bypassing Shopify Checkout (medium) | BFS suspended  | Feb 14, 2026 |
+| 3 | Upsell.com (ReConvert) | Content Violation  (medium) | BFS suspended | Dec 23, 2025 |
+| 4 | Pareto Team (Omega Theme) | Falsifying Info  (medium) | BFS suspended  | Nov 15, 2025 |
+| 5 | Foxecom Team | Falsifying Info + Fake reviews  (medium) | BFS suspended  | Feb 4, 2026 |
+| 6 | Final Apps | Shopify trademark infringement  (medium) | BFS suspended | Nov 24, 2025 |
+| 7 | AppStack (PricePanda) | Shopify trademark infringement  (medium) | BFS suspended | Oct 1, 2025 |
+| 8 | Skai Lama | Shopify trademark infringement  (medium) | BFS suspended | Jan 5, 2026 |
 
 ## Pattern Analysis
 
@@ -37,7 +37,7 @@ Sample analysis of partner infraction cases reveals systemic issues in enforceme
 #### 3. **Good Faith Penalty**
 - Partners with honest intent treated same as malicious actors
 - Same-day fixes still result in punishment
-- Previous compliance history not considered
+- Previous good compliance history not considered
 
 ### 🟡 Moderate Patterns
 
