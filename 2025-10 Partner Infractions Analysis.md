@@ -14,7 +14,7 @@ Sample analysis of partner infraction cases reveals systemic issues in enforceme
 |--------|---------|---------------|------------|----------------------|
 | 1 | Cirkle Studio LLC | Shopify trademark bidding (Google Ads) | 10-day app demotion | Resolved Sep 10, 2025 |
 | 2 | Madgic | App bypassing Shopify Checkout | BFS eligibility reset | Feb 14, 2026 |
-| 3 | Upsell.com (ReConvert) | Falsification of information (Misleading ROI figure) | BFS suspended | Dec 23, 2025 |
+| 3 | Upsell.com (ReConvert) | Falsification of information| BFS suspended | Dec 23, 2025 |
 | 4 | Pareto Team (Omega Theme) | Falsification of information | BFS eligibility reset | Nov 15, 2025 |
 | 5 | Foxecom Team | Falsification of information + Fake reviews | BFS eligibility reset | Feb 4, 2026 |
 | 6 | Final Apps | Shopify trademark infringement | BFS suspended | Nov 24, 2025 |
