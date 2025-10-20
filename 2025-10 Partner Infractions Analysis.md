@@ -135,7 +135,7 @@ Analysis of 8 partner infraction cases reveals systemic issues in enforcement ti
 
 ---
 
-### SAMPLE_TICKET_6: Final Apps ⚠️ **CRITICAL CASE**
+### SAMPLE_TICKET_6: Final Apps 
 **Violation:** Shopify trademark infringement  
 **Ticket ID:** b6ce7b08-67dc-4886-9eb1-b67a26687b93
 
@@ -163,7 +163,7 @@ Analysis of 8 partner infraction cases reveals systemic issues in enforcement ti
 
 ---
 
-### SAMPLE_TICKET_8: Skai Lama ⚠️ **CRITICAL CASE**
+### SAMPLE_TICKET_8: Skai Lama 
 **Violation:** Using "Shopify's Latest Bundling Tech" in app listing  
 **Ticket ID:** 2ff0b2fa-caca-41b7-be22-d08087935afb
 
