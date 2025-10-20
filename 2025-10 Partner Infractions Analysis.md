@@ -6,7 +6,7 @@
 
 ## Executive Summary
 
-Analysis of 8 partner infraction cases reveals systemic issues in enforcement timing, communication clarity, and proportional response. Key findings show partners experiencing significant business impact from minor violations, particularly during peak seasons, with limited appeal mechanisms and unclear resolution paths.
+Sample analysis of partner infraction cases reveals systemic issues in enforcement timing, communication clarity, and proportional response. Key findings show partners experiencing significant business impact from minor violations, particularly during peak seasons, with limited appeal mechanisms and unclear resolution paths.
 
 ## List of Violations
 
